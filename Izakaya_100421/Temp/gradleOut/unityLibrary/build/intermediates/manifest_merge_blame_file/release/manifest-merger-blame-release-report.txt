@@ -9,143 +9,143 @@
 9
 10    <uses-sdk
 11        android:minSdkVersion="23"
-11-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+11-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
 12        android:targetSdkVersion="29" />
-12-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+12-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
 13
 14    <uses-feature android:glEsVersion="0x00030000" />
-14-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:23:3-52
-14-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:23:17-49
+14-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:23:3-52
+14-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:23:17-49
 15    <uses-feature
-15-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:24:3-91
+15-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:24:3-91
 16        android:name="android.hardware.vulkan.version"
-16-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:24:17-63
+16-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:24:17-63
 17        android:required="false" />
-17-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:24:64-88
+17-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:24:64-88
 18
 19    <uses-permission android:name="android.permission.INTERNET" />
-19-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:25:3-65
-19-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:25:20-62
+19-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:25:3-65
+19-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:25:20-62
 20
 21    <uses-feature
-21-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:26:3-88
+21-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:26:3-88
 22        android:name="android.hardware.touchscreen"
-22-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:26:17-60
+22-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:26:17-60
 23        android:required="false" />
-23-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:26:61-85
+23-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:26:61-85
 24    <uses-feature
-24-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:27:3-99
+24-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:27:3-99
 25        android:name="android.hardware.touchscreen.multitouch"
-25-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:27:17-71
+25-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:27:17-71
 26        android:required="false" />
-26-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:27:72-96
+26-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:27:72-96
 27    <uses-feature
-27-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:28:3-108
+27-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:28:3-108
 28        android:name="android.hardware.touchscreen.multitouch.distinct"
-28-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:28:17-80
+28-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:28:17-80
 29        android:required="false" />
-29-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:28:81-105
+29-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:28:81-105
 30    <uses-feature
-30-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:29:3-111
+30-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:29:3-111
 31        android:name="android.hardware.vr.headtracking"
-31-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:29:17-64
+31-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:29:17-64
 32        android:required="true"
-32-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:29:65-88
+32-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:29:65-88
 33        android:version="1" />
-33-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:29:89-108
+33-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:29:89-108
 34
 35    <application>
-35-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:4:3-22:17
+35-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:4:3-22:17
 36        <activity
-36-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:5:5-14:16
+36-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:5:5-14:16
 37            android:name="com.unity3d.player.UnityPlayerActivity"
-37-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:5:15-68
+37-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:5:15-68
 38            android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenLayout|screenSize|uiMode"
-38-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:5:204-305
+38-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:5:204-305
 39            android:hardwareAccelerated="false"
-39-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:5:306-341
+39-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:5:306-341
 40            android:launchMode="singleTask"
-40-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:5:172-203
+40-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:5:172-203
 41            android:screenOrientation="landscape"
-41-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:5:134-171
+41-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:5:134-171
 42            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
-42-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:5:69-133
+42-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:5:69-133
 43            <intent-filter>
-43-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:6:7-10:23
+43-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:6:7-10:23
 44                <action android:name="android.intent.action.MAIN" />
-44-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:7:9-61
-44-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:7:17-58
+44-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:7:9-61
+44-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:7:17-58
 45
 46                <category android:name="android.intent.category.LAUNCHER" />
-46-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:8:9-69
-46-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:8:19-66
+46-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:8:9-69
+46-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:8:19-66
 47                <category android:name="com.oculus.intent.category.VR" />
-47-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:9:9-66
-47-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:9:19-63
+47-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:9:9-66
+47-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:9:19-63
 48            </intent-filter>
 49
 50            <meta-data
-50-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:11:7-82
+50-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:11:7-82
 51                android:name="unityplayer.UnityActivity"
-51-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:11:18-58
+51-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:11:18-58
 52                android:value="true" />
-52-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:11:59-79
+52-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:11:59-79
 53            <meta-data
-53-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:12:7-78
+53-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:12:7-78
 54                android:name="android.notch_support"
-54-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:12:18-54
+54-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:12:18-54
 55                android:value="true" />
-55-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:12:55-75
+55-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:12:55-75
 56            <meta-data
-56-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:13:7-81
+56-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:13:7-81
 57                android:name="com.oculus.vr.focusaware"
-57-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:13:18-57
+57-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:13:18-57
 58                android:value="true" />
-58-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:13:58-78
+58-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:13:58-78
 59        </activity>
 60
 61        <meta-data
-61-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:15:5-69
+61-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:15:5-69
 62            android:name="unity.splash-mode"
-62-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:15:16-48
+62-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:15:16-48
 63            android:value="0" />
-63-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:15:49-66
+63-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:15:49-66
 64        <meta-data
-64-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:16:5-74
+64-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:16:5-74
 65            android:name="unity.splash-enable"
-65-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:16:16-50
+65-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:16:16-50
 66            android:value="True" />
-66-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:16:51-71
+66-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:16:51-71
 67        <meta-data
-67-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:17:5-81
+67-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:17:5-81
 68            android:name="notch.config"
-68-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:17:16-43
+68-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:17:16-43
 69            android:value="portrait|landscape" />
-69-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:17:44-78
+69-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:17:44-78
 70        <meta-data
-70-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:18:5-101
+70-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:18:5-101
 71            android:name="unity.build-id"
-71-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:18:16-45
-72            android:value="05d50de9-e172-4340-9d85-686ba544f538" />
-72-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:18:46-98
+71-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:18:16-45
+72            android:value="4a8af2a0-107b-4c0c-ae3c-956b06c99f2f" />
+72-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:18:46-98
 73        <meta-data
-73-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:19:5-97
+73-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:19:5-97
 74            android:name="com.samsung.android.vr.application.mode"
-74-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:19:16-70
+74-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:19:16-70
 75            android:value="vr_only" />
-75-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:19:71-94
+75-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:19:71-94
 76        <meta-data
-76-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:20:5-91
+76-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:20:5-91
 77            android:name="com.unity.xr.oculus.LowOverheadMode"
-77-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:20:16-66
+77-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:20:16-66
 78            android:value="false" />
-78-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:20:67-88
+78-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:20:67-88
 79        <meta-data
-79-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:21:5-90
+79-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:21:5-90
 80            android:name="com.oculus.supportedDevices"
-80-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:21:16-58
+80-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:21:16-58
 81            android:value="quest|quest2" />
-81-->/Users/melinda.yang/Documents/Personal/Unity/XR-toolkit/VR Room Mel copy 2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:21:59-87
+81-->/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:21:59-87
 82    </application>
 83
 84</manifest>

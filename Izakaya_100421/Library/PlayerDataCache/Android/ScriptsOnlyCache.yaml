@@ -10,7 +10,6 @@ ScriptsOnlyBuild:
     - GVRI.Inserter
     - GVRI.Item
     - GVRI.ItemCountUI
-    - GVRI.SimpleInventory
     - GVRI.Slot
     - GVRI.core.ItemInfo
     - LoadScene
@@ -75,6 +74,8 @@ ScriptsOnlyBuild:
     - TMPro.TMP_SpriteAsset
     - TMPro.TMP_StyleSheet
     - TMPro.TextMeshProUGUI
+    Unity.XR.Interaction.Toolkit.Editor.dll:
+    - UnityEditor.XR.Interaction.Toolkit.XRGrabInteractableEditor
     Unity.XR.Interaction.Toolkit.dll:
     - UnityEngine.XR.Interaction.Toolkit.ActionBasedController
     - UnityEngine.XR.Interaction.Toolkit.ActionBasedSnapTurnProvider
@@ -361,8 +362,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 7278}
     - Class: 114
       Script: {instanceID: 7326}
-    - Class: 114
-      Script: {instanceID: 7328}
     - Class: 114
       Script: {instanceID: 7574}
     - Class: 114
