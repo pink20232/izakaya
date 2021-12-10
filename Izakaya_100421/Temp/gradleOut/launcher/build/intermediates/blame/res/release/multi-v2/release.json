@@ -1,34 +1,34 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/launcher/build/intermediates/res/merged/release/values-v21_values-v21.arsc.flat",
+            "outputFile": "/Users/melinda/Documents/GitHub/izakaya/Izakaya_100421/Temp/gradleOut/launcher/build/intermediates/res/merged/release/values-v28_values-v28.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/launcher/src/main/res/values-v21/styles.xml",
+                    "source": "/Users/melinda/Documents/GitHub/izakaya/Izakaya_100421/Temp/gradleOut/launcher/src/main/res/values-v28/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "0",
                         "startOffsets": "53",
-                        "endLines": "3",
+                        "endLines": "4",
                         "endColumns": "8",
-                        "endOffsets": "153"
+                        "endOffsets": "229"
                     },
                     "to": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
-                        "endLines": "3",
+                        "endLines": "4",
                         "endColumns": "8",
-                        "endOffsets": "154"
+                        "endOffsets": "229"
                     }
                 }
             ]
         },
         {
-            "outputFile": "/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/launcher/build/intermediates/res/merged/release/values_values.arsc.flat",
+            "outputFile": "/Users/melinda/Documents/GitHub/izakaya/Izakaya_100421/Temp/gradleOut/launcher/build/intermediates/res/merged/release/values_values.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/launcher/src/main/res/values/ids.xml",
+                    "source": "/Users/melinda/Documents/GitHub/izakaya/Izakaya_100421/Temp/gradleOut/launcher/src/main/res/values/ids.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -45,7 +45,7 @@
                     }
                 },
                 {
-                    "source": "/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/launcher/src/main/res/values/styles.xml",
+                    "source": "/Users/melinda/Documents/GitHub/izakaya/Izakaya_100421/Temp/gradleOut/launcher/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "5,2,7",
                         "startColumns": "0,0,0",
@@ -57,51 +57,51 @@
                     "to": {
                         "startLines": "5,7,10",
                         "startColumns": "4,4,4",
-                        "startOffsets": "218,318,456",
+                        "startOffsets": "214,314,452",
                         "endLines": "6,9,13",
                         "endColumns": "8,8,8",
-                        "endOffsets": "313,451,678"
+                        "endOffsets": "309,447,674"
                     }
                 },
                 {
-                    "source": "/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/launcher/src/main/res/values/strings.xml",
+                    "source": "/Users/melinda/Documents/GitHub/izakaya/Izakaya_100421/Temp/gradleOut/launcher/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "2,2",
-                        "startOffsets": "53,100",
-                        "endColumns": "46,65",
-                        "endOffsets": "97,163"
+                        "startOffsets": "53,96",
+                        "endColumns": "42,65",
+                        "endOffsets": "93,159"
                     },
                     "to": {
                         "startLines": "3,4",
                         "startColumns": "4,4",
-                        "startOffsets": "101,150",
-                        "endColumns": "48,67",
-                        "endOffsets": "145,213"
+                        "startOffsets": "101,146",
+                        "endColumns": "44,67",
+                        "endOffsets": "141,209"
                     }
                 }
             ]
         },
         {
-            "outputFile": "/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/launcher/build/intermediates/res/merged/release/values-v28_values-v28.arsc.flat",
+            "outputFile": "/Users/melinda/Documents/GitHub/izakaya/Izakaya_100421/Temp/gradleOut/launcher/build/intermediates/res/merged/release/values-v21_values-v21.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Temp/gradleOut/launcher/src/main/res/values-v28/styles.xml",
+                    "source": "/Users/melinda/Documents/GitHub/izakaya/Izakaya_100421/Temp/gradleOut/launcher/src/main/res/values-v21/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "0",
                         "startOffsets": "53",
-                        "endLines": "4",
+                        "endLines": "3",
                         "endColumns": "8",
-                        "endOffsets": "229"
+                        "endOffsets": "153"
                     },
                     "to": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
-                        "endLines": "4",
+                        "endLines": "3",
                         "endColumns": "8",
-                        "endOffsets": "229"
+                        "endOffsets": "154"
                     }
                 }
             ]

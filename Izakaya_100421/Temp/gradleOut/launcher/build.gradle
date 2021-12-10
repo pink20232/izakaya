@@ -18,7 +18,7 @@ android {
     defaultConfig {
         minSdkVersion 23
         targetSdkVersion 29
-        applicationId 'com.MYinc.MelVRRoom'
+        applicationId 'com.Donotgiveupinc.Izakaya'
         ndk {
             abiFilters 'armeabi-v7a'
         }

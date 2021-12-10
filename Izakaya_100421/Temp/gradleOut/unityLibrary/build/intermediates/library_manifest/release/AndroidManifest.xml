@@ -16,6 +16,8 @@
         android:name="android.hardware.vulkan.version"
         android:required="false" />
 
+    <supports-gl-texture android:name="GL_KHR_texture_compression_astc_ldr" />
+
     <uses-permission android:name="android.permission.INTERNET" />
 
     <uses-feature
@@ -69,7 +71,7 @@
             android:value="portrait|landscape" />
         <meta-data
             android:name="unity.build-id"
-            android:value="4a8af2a0-107b-4c0c-ae3c-956b06c99f2f" />
+            android:value="9cabc0a1-ef34-4348-9f36-1ad383e693cf" />
         <meta-data
             android:name="com.samsung.android.vr.application.mode"
             android:value="vr_only" />

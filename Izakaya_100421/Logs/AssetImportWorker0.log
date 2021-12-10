@@ -8,483 +8,130 @@ Using pre-set license
 -name
 AssetImportWorker0
 -projectPath
-/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421
+/Users/melinda/Documents/GitHub/izakaya/Izakaya_100421
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-60471
-Successfully changed project path to: /Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421
-/Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421
+63113
+Successfully changed project path to: /Users/melinda/Documents/GitHub/izakaya/Izakaya_100421
+/Users/melinda/Documents/GitHub/izakaya/Izakaya_100421
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 95.14 ms, found 6 plugins.
-Preloading 1 native plugins for Editor in 4.29 ms.
+Refreshing native plugins compatible for Editor in 74.47 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 3.14 ms.
 Initialize engine version: 2020.3.0f1 (c7b5465681fb)
 [Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path /Users/melinda.yang/Documents/GitHub/Izakaya/izakaya/Izakaya_100421/Assets
+[Subsystems] Discovering subsystems at path /Users/melinda/Documents/GitHub/izakaya/Izakaya_100421/Assets
 GfxDevice: creating device client; threaded=0
-2021-10-04 13:57:42.762 Unity[20511:16215069] Color LCD preferred device: AMD Radeon Pro 560X (high power)
-2021-10-04 13:57:42.762 Unity[20511:16215069] Metal devices available: 2
-2021-10-04 13:57:42.762 Unity[20511:16215069] 0: AMD Radeon Pro 560X (high power)
-2021-10-04 13:57:42.762 Unity[20511:16215069] 1: Intel(R) UHD Graphics 630 (low power)
-2021-10-04 13:57:42.763 Unity[20511:16215069] Using device AMD Radeon Pro 560X (high power)
-Initializing Metal device caps: AMD Radeon Pro 560X
+2021-12-09 20:31:04.572 Unity[17486:5675399] (null) preferred device: Apple M1 Pro (high power)
+2021-12-09 20:31:04.572 Unity[17486:5675399] Metal devices available: 1
+2021-12-09 20:31:04.572 Unity[17486:5675399] 0: Apple M1 Pro (high power)
+2021-12-09 20:31:04.572 Unity[17486:5675399] Using device Apple M1 Pro (high power)
+Initializing Metal device caps: Apple M1 Pro
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Initialize mono
 Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = '/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56511
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56486
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Registered in 0.000707 seconds.
+Registered in 0.002034 seconds.
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 80.43 ms, found 6 plugins.
-Preloading 1 native plugins for Editor in 0.57 ms.
+Refreshing native plugins compatible for Editor in 64.67 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.31 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  6.446 seconds
+- Completed reload, in  2.071 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.008093 seconds.
+Registered in 0.006551 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 70.12 ms, found 6 plugins.
-Preloading 1 native plugins for Editor in 0.43 ms.
+Refreshing native plugins compatible for Editor in 67.89 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.30 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.309 seconds
+- Completed reload, in  1.739 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Launching external process: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Tools/UnityShaderCompiler
-Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
-Refreshing native plugins compatible for Editor in 0.97 ms, found 6 plugins.
-Preloading 1 native plugins for Editor in 0.51 ms.
-Unloading 3296 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 259.2 MB.
-System memory in use after: 259.4 MB.
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Refreshing native plugins compatible for Editor in 4.55 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.42 ms.
+Unloading 3248 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 243.1 MB.
+System memory in use after: 243.3 MB.
 
-Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 3748.
-Total: 3.012553 ms (FindLiveObjects: 0.409428 ms CreateObjectMapping: 0.202625 ms MarkObjects: 2.299970 ms  DeleteObjects: 0.099098 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/grasbock_vrInventory/Prefabs/Sphere.prefab
-  artifactKey: Guid(55314356ed837344bab8c1e0f32e4700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/Sphere.prefab using Guid(55314356ed837344bab8c1e0f32e4700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '665a03667c2561ce14eef36b0e10b4c5') in 0.863445 seconds
-  Import took 0.872146 seconds .
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 3700.
+Total: 9.238958 ms (FindLiveObjects: 0.649333 ms CreateObjectMapping: 0.143750 ms MarkObjects: 8.201917 ms  DeleteObjects: 0.242791 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.420968 seconds.
+  path: Assets/grasbock_vrInventory/Prefabs/InventorySlot.prefab
+  artifactKey: Guid(909ec1d063c139f48bfbc424e1a0ff95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/grasbock_vrInventory/Prefabs/InventorySlot.prefab using Guid(909ec1d063c139f48bfbc424e1a0ff95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a54d3cffb8b13d94f05447275fcec99') in 0.306226 seconds
+  Import took 0.312715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
   path: Assets/grasbock_vrInventory/Prefabs/Cube.prefab
   artifactKey: Guid(ac9aaa6fbba27e34ca9d4c201533b155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/Cube.prefab using Guid(ac9aaa6fbba27e34ca9d4c201533b155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e719e0b2d55d2c36e258cbb12b0a64a') in 0.031752 seconds
-  Import took 0.038767 seconds .
+Start importing Assets/grasbock_vrInventory/Prefabs/Cube.prefab using Guid(ac9aaa6fbba27e34ca9d4c201533b155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43bf4eb02af4524c8b4dc1503ce84bc1') in 0.016145 seconds
+  Import took 0.020109 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 93.969740 seconds.
-  path: Assets/grasbock_vrInventory/ItemInfos/cucumber.prefab
-  artifactKey: Guid(8e130963b760d4181b61a67d409d409b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/ItemInfos/cucumber.prefab using Guid(8e130963b760d4181b61a67d409d409b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eda152aeddf28add63773e0e89e1de30') in 0.172021 seconds
-  Import took 0.180785 seconds .
+  Time since last request: 6.312845 seconds.
+  path: Assets/anime_style_izakaya/models/prop_1.FBX
+  artifactKey: Guid(17a830bfa1e8174498e67f63056f108d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/anime_style_izakaya/models/prop_1.FBX using Guid(17a830bfa1e8174498e67f63056f108d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15d5992bd3f4d90ae950fc0be757c87c') in 0.154699 seconds
+  Import took 0.159119 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 36.356546 seconds.
-  path: Assets/grasbock_vrInventory/ItemInfos/Cube 1.asset
-  artifactKey: Guid(4816cb2060cd346c98d3fb60a32cb604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/ItemInfos/Cube 1.asset using Guid(4816cb2060cd346c98d3fb60a32cb604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7185d0e6e95bc24cc56f17e85c5e78f') in 0.175293 seconds
-  Import took 0.182371 seconds .
+  Time since last request: 22.842931 seconds.
+  path: Assets/anime_style_izakaya/models/prop_4.FBX
+  artifactKey: Guid(4b4b6bd63e77cc5429db53dc23bb1e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/anime_style_izakaya/models/prop_4.FBX using Guid(4b4b6bd63e77cc5429db53dc23bb1e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce6e91aa7d0cf1b71231870952aa7175') in 0.017329 seconds
+  Import took 0.022582 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 7.981409 seconds.
-  path: Assets/grasbock_vrInventory/ItemInfos/cucumber.asset
-  artifactKey: Guid(4816cb2060cd346c98d3fb60a32cb604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/ItemInfos/cucumber.asset using Guid(4816cb2060cd346c98d3fb60a32cb604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b5e8a0e6ed213e97dca073e8a43de6a') in 0.004337 seconds
-  Import took 0.013072 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.135267 seconds.
-  path: Assets/grasbock_vrInventory/ItemInfos/Cucumber.asset
-  artifactKey: Guid(4816cb2060cd346c98d3fb60a32cb604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/ItemInfos/Cucumber.asset using Guid(4816cb2060cd346c98d3fb60a32cb604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c13ea41119eeef7ef6376739e86a6ce2') in 0.004002 seconds
-  Import took 0.011423 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 129.792331 seconds.
-  path: Assets/grasbock_vrInventory/Prefabs/cucumber.prefab
-  artifactKey: Guid(c714280df12a74afeaa153b96becd72b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/cucumber.prefab using Guid(c714280df12a74afeaa153b96becd72b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64754b8ae31b81446776ccff750dbf84') in 0.105335 seconds
-  Import took 0.112979 seconds .
+  Time since last request: 0.005031 seconds.
+  path: Assets/anime_style_izakaya/models/prop_4.FBX
+  artifactKey: Guid(4b4b6bd63e77cc5429db53dc23bb1e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/anime_style_izakaya/models/prop_4.FBX using Guid(4b4b6bd63e77cc5429db53dc23bb1e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce6e91aa7d0cf1b71231870952aa7175') in 0.012593 seconds
+  Import took 0.017232 seconds .
 
 ========================================================================
 Received Prepare
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 21.83 ms, found 6 plugins.
-Preloading 1 native plugins for Editor in 0.51 ms.
-Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 203.3 MB.
-System memory in use after: 203.5 MB.
+Refreshing native plugins compatible for Editor in 11.63 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 8.41 ms.
+Unloading 81 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 202.2 MB.
+System memory in use after: 202.4 MB.
 
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3821.
-Total: 3.766741 ms (FindLiveObjects: 0.361696 ms CreateObjectMapping: 0.186436 ms MarkObjects: 3.193726 ms  DeleteObjects: 0.023772 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 577.763350 seconds.
-  path: Assets/grasbock_vrInventory/Prefabs/Tennis_Ball_Green.prefab
-  artifactKey: Guid(a00a8206c08c547e495275c4082fbc4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/Tennis_Ball_Green.prefab using Guid(a00a8206c08c547e495275c4082fbc4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '462d3ae5212f9d4e7a16fc9e5a04586a') in 0.106742 seconds
-  Import took 0.115678 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 18.826130 seconds.
-  path: Assets/grasbock_vrInventory/Prefabs/cucumber.prefab
-  artifactKey: Guid(c714280df12a74afeaa153b96becd72b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/cucumber.prefab using Guid(c714280df12a74afeaa153b96becd72b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ee26765209832caef6d845110ef4978') in 0.108400 seconds
-  Import took 0.116825 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.668738 seconds.
-  path: Assets/grasbock_vrInventory/Prefabs/cucumber.prefab
-  artifactKey: Guid(c714280df12a74afeaa153b96becd72b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/cucumber.prefab using Guid(c714280df12a74afeaa153b96becd72b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb576f08cf61d6cb4de7c15854aa9eca') in 0.167424 seconds
-  Import took 0.176063 seconds .
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3760.
+Total: 3.604208 ms (FindLiveObjects: 0.665500 ms CreateObjectMapping: 0.082708 ms MarkObjects: 2.832292 ms  DeleteObjects: 0.023000 ms)
 
 ========================================================================
 Received Prepare
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 26.54 ms, found 6 plugins.
-Preloading 1 native plugins for Editor in 1.65 ms.
+Refreshing native plugins compatible for Editor in 5.53 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 8.91 ms.
 Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 203.5 MB.
-System memory in use after: 203.8 MB.
+System memory in use before: 201.2 MB.
+System memory in use after: 201.4 MB.
 
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3821.
-Total: 7.781564 ms (FindLiveObjects: 0.378109 ms CreateObjectMapping: 0.167831 ms MarkObjects: 7.211993 ms  DeleteObjects: 0.022666 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 580.229161 seconds.
-  path: Assets/grasbock_vrInventory/ItemInfos/Cucumber.asset
-  artifactKey: Guid(4816cb2060cd346c98d3fb60a32cb604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/ItemInfos/Cucumber.asset using Guid(4816cb2060cd346c98d3fb60a32cb604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbd3f64214ce405f9a3053cdb5a0c5b2') in 0.067577 seconds
-  Import took 0.132488 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 352.375923 seconds.
-  path: Assets/grasbock_vrInventory/Prefabs/Sphere.prefab
-  artifactKey: Guid(55314356ed837344bab8c1e0f32e4700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/Sphere.prefab using Guid(55314356ed837344bab8c1e0f32e4700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '476138b7200a985f17f4542b460037c1') in 0.145906 seconds
-  Import took 0.154470 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 133.176923 seconds.
-  path: Assets/grasbock_vrInventory/Prefabs/Cube_big.prefab
-  artifactKey: Guid(027864a75b05244dfa6db3d1de4fe5cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/Cube_big.prefab using Guid(027864a75b05244dfa6db3d1de4fe5cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ebf2a7e35dc5f053993999733240cb4') in 0.035735 seconds
-  Import took 0.042706 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 25.898640 seconds.
-  path: Assets/grasbock_vrInventory/ItemInfos/Cube 1.asset
-  artifactKey: Guid(d1c254fc298164ef0a24171bc15941b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/ItemInfos/Cube 1.asset using Guid(d1c254fc298164ef0a24171bc15941b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '050db660d5bf18243753a06fbd948161') in 0.003739 seconds
-  Import took 0.012673 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.242222 seconds.
-  path: Assets/grasbock_vrInventory/ItemInfos/Cube_big.asset
-  artifactKey: Guid(d1c254fc298164ef0a24171bc15941b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/ItemInfos/Cube_big.asset using Guid(d1c254fc298164ef0a24171bc15941b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f435f39423c0db448337008b29f9c0b') in 0.003148 seconds
-  Import took 0.013694 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 15.775656 seconds.
-  path: Assets/grasbock_vrInventory/ItemInfos/Cube_big.asset
-  artifactKey: Guid(d1c254fc298164ef0a24171bc15941b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/ItemInfos/Cube_big.asset using Guid(d1c254fc298164ef0a24171bc15941b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff55bf85550ae3c92124ecf480f92b5a') in 0.005581 seconds
-  Import took 0.014074 seconds .
-
-========================================================================
-Received Prepare
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 30.00 ms, found 6 plugins.
-Preloading 1 native plugins for Editor in 0.73 ms.
-Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 203.7 MB.
-System memory in use after: 203.9 MB.
-
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3821.
-Total: 25.259308 ms (FindLiveObjects: 0.866617 ms CreateObjectMapping: 0.591253 ms MarkObjects: 23.773488 ms  DeleteObjects: 0.026635 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 594.586158 seconds.
-  path: Assets/grasbock_vrInventory/Prefabs
-  artifactKey: Guid(6122c7f869614bc4a9afc076bc835220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs using Guid(6122c7f869614bc4a9afc076bc835220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b27d52eb1a539d3d10199e9ef7ae2779') in 0.005200 seconds
-  Import took 0.054064 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 67.822232 seconds.
-  path: Assets/grasbock_vrInventory/ItemInfos/ItemInfo.asset
-  artifactKey: Guid(e27a15ca93f514849a49f005c2e622a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/ItemInfos/ItemInfo.asset using Guid(e27a15ca93f514849a49f005c2e622a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76dee2c9d7a9a926263be95c8bfd1d4d') in 0.023473 seconds
-  Import took 0.030369 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 143.414748 seconds.
-  path: Assets/grasbock_vrInventory/Prefabs/cucumber.prefab
-  artifactKey: Guid(c714280df12a74afeaa153b96becd72b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/cucumber.prefab using Guid(c714280df12a74afeaa153b96becd72b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '863258335c4687c5848648e0d54fc02e') in 0.172097 seconds
-  Import took 0.179465 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 193.817504 seconds.
-  path: Assets/grasbock_vrInventory/Prefabs/cucumber.prefab
-  artifactKey: Guid(c714280df12a74afeaa153b96becd72b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/cucumber.prefab using Guid(c714280df12a74afeaa153b96becd72b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '318fa9d4e791b75783491abf6685e9cf') in 0.081793 seconds
-  Import took 0.090682 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 80.155620 seconds.
-  path: Assets/grasbock_vrInventory/Prefabs/Cube_big.prefab
-  artifactKey: Guid(027864a75b05244dfa6db3d1de4fe5cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/Cube_big.prefab using Guid(027864a75b05244dfa6db3d1de4fe5cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7626ce7632b52aa4cc24c5acccdc405a') in 0.083452 seconds
-  Import took 0.090518 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.885347 seconds.
-  path: Assets/grasbock_vrInventory/Prefabs/Cube_big.prefab
-  artifactKey: Guid(027864a75b05244dfa6db3d1de4fe5cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/Cube_big.prefab using Guid(027864a75b05244dfa6db3d1de4fe5cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c907be01f9c1368ecb639cf39a6617c2') in 0.028151 seconds
-  Import took 0.036126 seconds .
-
-========================================================================
-Received Prepare
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 22.62 ms, found 6 plugins.
-Preloading 1 native plugins for Editor in 0.69 ms.
-Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 203.9 MB.
-System memory in use after: 204.2 MB.
-
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3821.
-Total: 21.080887 ms (FindLiveObjects: 0.433529 ms CreateObjectMapping: 0.197681 ms MarkObjects: 20.422080 ms  DeleteObjects: 0.026128 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 427.596296 seconds.
-  path: Assets/grasbock_vrInventory/Scripts/Slot.cs
-  artifactKey: Guid(055f68b7ccd47f440b232cee6c80fc89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Scripts/Slot.cs using Guid(055f68b7ccd47f440b232cee6c80fc89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a74aa06f9d7488a4e2eb29f56f16bdb') in 0.639994 seconds
-  Import took 0.648107 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 126.643171 seconds.
-  path: Assets/grasbock_vrInventory/Prefabs/InventorySlot.prefab
-  artifactKey: Guid(909ec1d063c139f48bfbc424e1a0ff95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/InventorySlot.prefab using Guid(909ec1d063c139f48bfbc424e1a0ff95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '230a2191095a0af127851bf1ef41d8b3') in 0.157302 seconds
-  Import took 0.165389 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.664216 seconds.
-  path: Assets/grasbock_vrInventory/Prefabs/InventorySlot.prefab
-  artifactKey: Guid(909ec1d063c139f48bfbc424e1a0ff95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/InventorySlot.prefab using Guid(909ec1d063c139f48bfbc424e1a0ff95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd9ab7fa44890d196d963062f1cf6641') in 0.015289 seconds
-  Import took 0.022619 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.309240 seconds.
-  path: Assets/grasbock_vrInventory/Prefabs/InventorySlot.prefab
-  artifactKey: Guid(909ec1d063c139f48bfbc424e1a0ff95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/InventorySlot.prefab using Guid(909ec1d063c139f48bfbc424e1a0ff95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adc9272e1efe7775ad075865c5dc385c') in 0.012694 seconds
-  Import took 0.019744 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 348.349385 seconds.
-  path: Assets/grasbock_vrInventory/Prefabs/Sphere.prefab
-  artifactKey: Guid(55314356ed837344bab8c1e0f32e4700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/Sphere.prefab using Guid(55314356ed837344bab8c1e0f32e4700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3177b3b63ac442d46a3a022c244ee5de') in 0.034221 seconds
-  Import took 0.043084 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 23.918781 seconds.
-  path: Assets/grasbock_vrInventory/Prefabs/Sphere.prefab
-  artifactKey: Guid(55314356ed837344bab8c1e0f32e4700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/Sphere.prefab using Guid(55314356ed837344bab8c1e0f32e4700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92995c07b4639b85604ab4fe7f88fd5e') in 0.019830 seconds
-  Import took 0.027531 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.757961 seconds.
-  path: Assets/grasbock_vrInventory/Prefabs/Sphere.prefab
-  artifactKey: Guid(55314356ed837344bab8c1e0f32e4700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/Sphere.prefab using Guid(55314356ed837344bab8c1e0f32e4700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26b0ba6e91a681018d0e9e5d6e6ac755') in 0.024750 seconds
-  Import took 0.033091 seconds .
-
-========================================================================
-Received Prepare
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 22.11 ms, found 6 plugins.
-Preloading 1 native plugins for Editor in 0.48 ms.
-Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 208.6 MB.
-System memory in use after: 208.9 MB.
-
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3822.
-Total: 3.812265 ms (FindLiveObjects: 0.397844 ms CreateObjectMapping: 0.193335 ms MarkObjects: 3.191016 ms  DeleteObjects: 0.028878 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 348.602753 seconds.
-  path: Assets/grasbock_vrInventory/Prefabs/Inventory.prefab
-  artifactKey: Guid(151444764d2d73a46968faf51750d452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/Inventory.prefab using Guid(151444764d2d73a46968faf51750d452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a15617875df0fb5028c67c754498f0e') in 0.058744 seconds
-  Import took 0.066920 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.792686 seconds.
-  path: Assets/grasbock_vrInventory/Prefabs/InventorySlot.prefab
-  artifactKey: Guid(909ec1d063c139f48bfbc424e1a0ff95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/InventorySlot.prefab using Guid(909ec1d063c139f48bfbc424e1a0ff95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62fa642463dbeec03a04e92e4b4e50fd') in 0.018911 seconds
-  Import took 0.026380 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 21.849634 seconds.
-  path: Assets/grasbock_vrInventory/Prefabs/InventorySlot.prefab
-  artifactKey: Guid(909ec1d063c139f48bfbc424e1a0ff95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/InventorySlot.prefab using Guid(909ec1d063c139f48bfbc424e1a0ff95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '693173b124bbf5da23d41d9444a1e6c5') in 0.013059 seconds
-  Import took 0.019643 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.016841 seconds.
-  path: Assets/grasbock_vrInventory/Prefabs/InventorySlot.prefab
-  artifactKey: Guid(909ec1d063c139f48bfbc424e1a0ff95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/InventorySlot.prefab using Guid(909ec1d063c139f48bfbc424e1a0ff95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '693173b124bbf5da23d41d9444a1e6c5') in 0.011604 seconds
-  Import took 0.017849 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.161890 seconds.
-  path: Assets/grasbock_vrInventory/Prefabs/InventorySlot.prefab
-  artifactKey: Guid(909ec1d063c139f48bfbc424e1a0ff95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/InventorySlot.prefab using Guid(909ec1d063c139f48bfbc424e1a0ff95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f53207c2f8ae049744dcbbec5b4b602e') in 0.011764 seconds
-  Import took 0.018356 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 25.188184 seconds.
-  path: Assets/grasbock_vrInventory/Prefabs/InventorySlot.prefab
-  artifactKey: Guid(909ec1d063c139f48bfbc424e1a0ff95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/InventorySlot.prefab using Guid(909ec1d063c139f48bfbc424e1a0ff95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8589e21b4cd4737168249c93daa0f9c') in 0.015077 seconds
-  Import took 0.021817 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 141.231484 seconds.
-  path: Assets/grasbock_vrInventory/Prefabs/Inventory.prefab
-  artifactKey: Guid(151444764d2d73a46968faf51750d452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/Inventory.prefab using Guid(151444764d2d73a46968faf51750d452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88f91d14e71d84fc0f14af85bf47793d') in 0.018729 seconds
-  Import took 0.024972 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 20.228738 seconds.
-  path: Assets/grasbock_vrInventory/Prefabs/InventorySlot.prefab
-  artifactKey: Guid(909ec1d063c139f48bfbc424e1a0ff95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/InventorySlot.prefab using Guid(909ec1d063c139f48bfbc424e1a0ff95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cd3f52722d9f884513bef43b44eb832') in 0.016820 seconds
-  Import took 0.023649 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.989877 seconds.
-  path: Assets/grasbock_vrInventory/Prefabs/InventorySlot.prefab
-  artifactKey: Guid(909ec1d063c139f48bfbc424e1a0ff95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/InventorySlot.prefab using Guid(909ec1d063c139f48bfbc424e1a0ff95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fd7d5c8f6c3f0b1a71907c0e0c04577') in 0.013442 seconds
-  Import took 0.019835 seconds .
-
-========================================================================
-Received Prepare
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 30.05 ms, found 6 plugins.
-Preloading 1 native plugins for Editor in 0.57 ms.
-Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 209.0 MB.
-System memory in use after: 209.3 MB.
-
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3822.
-Total: 3.754630 ms (FindLiveObjects: 0.377186 ms CreateObjectMapping: 0.176677 ms MarkObjects: 3.164139 ms  DeleteObjects: 0.035259 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 276.998233 seconds.
-  path: Assets/grasbock_vrInventory/Prefabs/Inventory.prefab
-  artifactKey: Guid(151444764d2d73a46968faf51750d452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/Inventory.prefab using Guid(151444764d2d73a46968faf51750d452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e21f4d88f8b7b0cf10f6e893ddfec6a') in 0.063771 seconds
-  Import took 0.093703 seconds .
-
-========================================================================
-Received Prepare
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 22.99 ms, found 6 plugins.
-Preloading 1 native plugins for Editor in 1.49 ms.
-Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 209.2 MB.
-System memory in use after: 209.4 MB.
-
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3822.
-Total: 30.603040 ms (FindLiveObjects: 1.050113 ms CreateObjectMapping: 0.188529 ms MarkObjects: 29.307739 ms  DeleteObjects: 0.055265 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 2235.375620 seconds.
-  path: Assets/grasbock_vrInventory/Prefabs/InventorySlot.prefab
-  artifactKey: Guid(909ec1d063c139f48bfbc424e1a0ff95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/grasbock_vrInventory/Prefabs/InventorySlot.prefab using Guid(909ec1d063c139f48bfbc424e1a0ff95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e27bd02961c4429a4ac85568a9cb13ed') in 0.074363 seconds
-  Import took 0.085489 seconds .
-
-========================================================================
-Received Prepare
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 26.08 ms, found 6 plugins.
-Preloading 1 native plugins for Editor in 0.45 ms.
-Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 209.3 MB.
-System memory in use after: 209.6 MB.
-
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3822.
-Total: 3.889415 ms (FindLiveObjects: 0.405469 ms CreateObjectMapping: 0.207685 ms MarkObjects: 3.248802 ms  DeleteObjects: 0.026557 ms)
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3760.
+Total: 10.781208 ms (FindLiveObjects: 0.859042 ms CreateObjectMapping: 0.103333 ms MarkObjects: 9.762958 ms  DeleteObjects: 0.054625 ms)
 
