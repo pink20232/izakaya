@@ -91,11 +91,21 @@ namespace GVRI{
             GameObject preview = Instantiate(original, transform.position, transform.rotation);
 
             //remove all components that are not used for visuals
+
+            var grab_component = preview.GetComponent<UnityEngine.XR.Interaction.Toolkit.XRGrabInteractable>();
+            
+                if(grab_component is UnityEngine.XR.Interaction.Toolkit.XRGrabInteractable)
+            {
+                Destroy(grab_component);
+            }
+
+
             var components = preview.GetComponents<Component>();
             foreach(Component comp in components)
             {
                 if ( !(comp is MeshRenderer) &&
                     !(comp is MeshFilter) &&
+                    
                     !(comp is Transform)
                 )
                 {

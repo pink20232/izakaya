@@ -148,7 +148,7 @@
 81-->[:unityLibrary] /Users/melinda/Documents/GitHub/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:72:9-74:68
 82            android:name="unity.build-id"
 82-->[:unityLibrary] /Users/melinda/Documents/GitHub/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:73:13-42
-83            android:value="9cabc0a1-ef34-4348-9f36-1ad383e693cf" />
+83            android:value="73bc311a-42b7-4726-a315-3003a035ee42" />
 83-->[:unityLibrary] /Users/melinda/Documents/GitHub/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:74:13-65
 84        <meta-data
 84-->[:unityLibrary] /Users/melinda/Documents/GitHub/izakaya/Izakaya_100421/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:75:9-77:39
