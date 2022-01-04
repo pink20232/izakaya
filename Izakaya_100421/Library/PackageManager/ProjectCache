@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637754067630000000
-    m_Hash: 2672861812
+      ticks: 637768705540000000
+    m_Hash: 2699989392
   m_LockFileStatus:
     m_FilePath: /Users/melinda/Documents/GitHub/izakaya/Izakaya_100421/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637754067640000000
-    m_Hash: 4190204084
+      ticks: 637768705540000000
+    m_Hash: 3336081597
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -281,6 +281,7 @@ m_PackageAssets:
         - 3.0.5
         - 3.0.6
         - 3.0.7
+        - 3.0.9
         compatible:
         - 1.0.2
         - 1.0.6
@@ -307,6 +308,7 @@ m_PackageAssets:
         - 3.0.5
         - 3.0.6
         - 3.0.7
+        - 3.0.9
         verified: 2.0.7
       dependencies:
       - name: com.unity.test-framework
@@ -677,6 +679,7 @@ m_PackageAssets:
         - 10.6.0
         - 10.7.0
         - 10.8.0
+        - 10.8.1
         compatible:
         - 10.3.2
         - 10.4.0
@@ -1217,12 +1220,12 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
-    - packageId: com.unity.xr.interaction.toolkit@1.0.0-pre.5
+    - packageId: com.unity.xr.interaction.toolkit@1.0.0-pre.2
       testable: 0
       isDirectDependency: 1
-      version: 1.0.0-pre.5
+      version: 1.0.0-pre.2
       source: 1
-      resolvedPath: /Users/melinda/Documents/GitHub/izakaya/Izakaya_100421/Library/PackageCache/com.unity.xr.interaction.toolkit@1.0.0-pre.5
+      resolvedPath: /Users/melinda/Documents/GitHub/izakaya/Izakaya_100421/Library/PackageCache/com.unity.xr.interaction.toolkit@1.0.0-pre.2
       assetPath: Packages/com.unity.xr.interaction.toolkit
       name: com.unity.xr.interaction.toolkit
       displayName: XR Interaction Toolkit
@@ -1258,6 +1261,7 @@ m_PackageAssets:
         - 1.0.0-pre.6
         - 1.0.0-pre.8
         - 2.0.0-pre.5
+        - 2.0.0-pre.6
         compatible:
         - 0.0.6-preview
         - 0.9.0-preview
@@ -1274,15 +1278,12 @@ m_PackageAssets:
         - 1.0.0-pre.6
         - 1.0.0-pre.8
         - 2.0.0-pre.5
+        - 2.0.0-pre.6
         verified: 
       dependencies:
       - name: com.unity.inputsystem
-        version: 1.0.2
+        version: 1.0.1
       - name: com.unity.ugui
-        version: 1.0.0
-      - name: com.unity.modules.audio
-        version: 1.0.0
-      - name: com.unity.modules.imgui
         version: 1.0.0
       - name: com.unity.xr.legacyinputhelpers
         version: 2.1.7
@@ -1294,8 +1295,6 @@ m_PackageAssets:
       - name: com.unity.modules.ui
         version: 1.0.0
       - name: com.unity.modules.imgui
-        version: 1.0.0
-      - name: com.unity.modules.audio
         version: 1.0.0
       - name: com.unity.xr.legacyinputhelpers
         version: 2.1.7
@@ -1326,13 +1325,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637636539280000000
+      datePublishedTicks: 637472009520000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: git+https://github.com/Unity-Technologies/com.unity.xr.interaction.toolkit.git
-        revision: 6e00ed515cb1d7d8911713d67f2d0e8bf440af26
+        revision: e0a36e883dcef9c577ca5a22ece8061c215e9568
         path: 
     - packageId: com.unity.xr.oculus@1.9.1
       testable: 0
@@ -1640,12 +1639,12 @@ m_PackageAssets:
         url: git@github.com:Unity-Technologies/com.unity.xr.openvr.standalone.git
         revision: 359d95b0f8ab074d6c475988d5cf97975ee978c4
         path: 
-    - packageId: com.unity.xr.openxr@1.0.3
+    - packageId: com.unity.xr.openxr@1.0.2
       testable: 0
       isDirectDependency: 1
-      version: 1.0.3
+      version: 1.0.2
       source: 1
-      resolvedPath: /Users/melinda/Documents/GitHub/izakaya/Izakaya_100421/Library/PackageCache/com.unity.xr.openxr@1.0.3
+      resolvedPath: /Users/melinda/Documents/GitHub/izakaya/Izakaya_100421/Library/PackageCache/com.unity.xr.openxr@1.0.2
       assetPath: Packages/com.unity.xr.openxr
       name: com.unity.xr.openxr
       displayName: OpenXR Plugin
@@ -1731,13 +1730,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637516948170000000
+      datePublishedTicks: 637486693760000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/xr.sdk.openxr.git
-        revision: 82546898438f3e4ef3f1e52e008ca0b93c722c9a
+        revision: 297b6c200ee5dc8d53e77c5d931f18bcaa3ce556
         path: 
     - packageId: com.unity.modules.ai@1.0.0
       testable: 0
@@ -4014,6 +4013,7 @@ m_PackageAssets:
         - 10.6.0
         - 10.7.0
         - 10.8.0
+        - 10.8.1
         compatible:
         - 10.3.2
         - 10.4.0
@@ -4166,6 +4166,7 @@ m_PackageAssets:
         - 10.6.0
         - 10.7.0
         - 10.8.0
+        - 10.8.1
         compatible:
         - 10.3.2
         - 10.4.0

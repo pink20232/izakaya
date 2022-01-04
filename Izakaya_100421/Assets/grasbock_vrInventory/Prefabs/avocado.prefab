@@ -31,7 +31,7 @@ Transform:
   m_GameObject: {fileID: 6007261288835178717}
   m_LocalRotation: {x: 0.000000081460335, y: 0, z: -0, w: 1}
   m_LocalPosition: {x: 16.208, y: 1.23, z: -19.972}
-  m_LocalScale: {x: 1.1091124, y: 1.1091124, z: 1.1091124}
+  m_LocalScale: {x: 0.6973619, y: 0.6973619, z: 0.6973619}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -118,6 +118,9 @@ MonoBehaviour:
   m_InteractionLayerMask:
     serializedVersion: 2
     m_Bits: 4294967295
+  m_InteractionLayers:
+    m_Bits: 4294967295
+  m_SelectMode: 0
   m_CustomReticle: {fileID: 0}
   m_FirstHoverEntered:
     m_PersistentCalls:
@@ -129,6 +132,12 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_HoverExited:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FirstSelectEntered:
+    m_PersistentCalls:
+      m_Calls: []
+  m_LastSelectExited:
     m_PersistentCalls:
       m_Calls: []
   m_SelectEntered:
