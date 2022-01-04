@@ -20806,13 +20806,45 @@ MonoBehaviour:
     m_Id: 51eab7de-62da-45f6-b6c8-6b1931038f06
     m_Processors: 
     m_Interactions: 
-    m_SingletonActionBindings: []
+    m_SingletonActionBindings:
+    - m_Name: 
+      m_Id: ecc2d31e-7f71-4502-a088-83a02cf512cc
+      m_Path: <XRController>{RightHand}/primaryButton
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Action
+      m_Flags: 0
   OnPress:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1268283949}
+        m_TargetAssemblyTypeName: ToggleRay, Assembly-CSharp
+        m_MethodName: ActivateRay
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   OnRelease:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1268283949}
+        m_TargetAssemblyTypeName: ToggleRay, Assembly-CSharp
+        m_MethodName: DeactivateRay
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &756329563
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20856,7 +20888,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b761b9ecd8d8fd448860fb9c92f6860a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  node: 0
+  node: 5
   gameObjectInHand: {fileID: 0}
 --- !u!54 &756329565
 Rigidbody:
@@ -32131,7 +32163,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1201838627}
   m_LocalRotation: {x: 0.0000049154364, y: 0.014235452, z: 0.00034526017, w: 0.9998987}
-  m_LocalPosition: {x: 11.973, y: 0.722, z: -15.492}
+  m_LocalPosition: {x: 11.973, y: 0.725, z: -15.492}
   m_LocalScale: {x: 0.08339793, y: 0.03530568, z: 0.08339793}
   m_Children:
   - {fileID: 1789041773}
@@ -32149,7 +32181,7 @@ SpringJoint:
   m_ConnectedArticulationBody: {fileID: 0}
   m_Anchor: {x: 0, y: 0.50000006, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 15.269669, y: 1.2788851, z: -12.064874}
+  m_ConnectedAnchor: {x: 15.269671, y: 1.2818851, z: -12.064874}
   serializedVersion: 2
   m_Spring: 10
   m_Damper: 30
@@ -34475,7 +34507,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   forceToggle: 0
-  directInteractor: {fileID: 0}
+  directInteractor: {fileID: 756329561}
 --- !u!1001 &1269186146
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -50134,7 +50166,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   forceToggle: 0
-  directInteractor: {fileID: 0}
+  directInteractor: {fileID: 2022677206}
 --- !u!1 &1842376428
 GameObject:
   m_ObjectHideFlags: 0
@@ -54827,13 +54859,45 @@ MonoBehaviour:
     m_Id: 7e6039b2-ee6b-49ed-9cff-3ff2c3046b3f
     m_Processors: 
     m_Interactions: 
-    m_SingletonActionBindings: []
+    m_SingletonActionBindings:
+    - m_Name: 
+      m_Id: af160c05-a0b2-4ed7-9212-e797ed8708ba
+      m_Path: <XRController>{LeftHand}/primaryButton
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Action
+      m_Flags: 0
   OnPress:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1841767375}
+        m_TargetAssemblyTypeName: ToggleRay, Assembly-CSharp
+        m_MethodName: ActivateRay
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   OnRelease:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1841767375}
+        m_TargetAssemblyTypeName: ToggleRay, Assembly-CSharp
+        m_MethodName: DeactivateRay
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2022677208
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54877,7 +54941,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b761b9ecd8d8fd448860fb9c92f6860a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  node: 0
+  node: 4
   gameObjectInHand: {fileID: 0}
 --- !u!1 &2029815536
 GameObject:
