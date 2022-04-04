@@ -5,9 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/0924_cooking.unity
     guid: a885a98f21ff746a693a782681501397
+  - enabled: 1
+    path: Assets/Scenes/Recipe_menu.unity
+    guid: 9434a312ff20b489988a035d55fad370
+  - enabled: 0
+    path: Assets/Scenes/ShapesXR_menu_2.unity
+    guid: 9ad37651fa052433591b1f3dce0c61e6
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8fccb80e6c9a84389a75f2c1ed4d786d,
       type: 2}
