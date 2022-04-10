@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: 0d75c2b6a619947d8a23fa898ce83c6c
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 5358454023743739237
+    second: wood_mat|CameraAction
+  - first:
+      74: -8092069576750968509
+    second: wood_mat|NurbsPathAction
+  - first:
+      74: -8058325649400952352
+    second: wood_mat|Object001|Object001|Camera001.Target|Take 001|BaseLayer|Object0
+  - first:
+      74: 6224593615055327972
+    second: wood_mat|Object001|Object001|Camera001|Take 001|BaseLayer|Object001|Came
+  - first:
+      74: 1079281228068687080
+    second: wood_mat|Object001|Object001|Object001|Take 001|BaseLayer|Object001|Obje
+  - first:
+      74: 845483505964335737
+    second: wood_mat|Object001|Object001|Plane001|Take 001|BaseLayer|Object001|Plane
+  - first:
+      74: 4248437312231770192
+    second: wood_mat|Object001|Object001|sushi|Take 001|BaseLayer|Object001|sushi|Ta
+  - first:
+      74: 6822464289306936633
+    second: wood_mat|Object001|Object001|VRayLight002|Take 001|BaseLayer|Object001|V
+  - first:
+      74: -7815736559852945910
+    second: wood_mat|Object001|Object001|wood_mat|Take 001|BaseLayer|Object001|wood_
+  - first:
+      74: -4415506055935467950
+    second: wood_mat|sushi|sushi|Camera001.Target|Take 001|BaseLayer|sushi|Camera001
+  - first:
+      74: -7254059252918089217
+    second: wood_mat|sushi|sushi|Camera001|Take 001|BaseLayer|sushi|Camera001|Take
+      0
+  - first:
+      74: -4020692345982992744
+    second: wood_mat|sushi|sushi|Object001|Take 001|BaseLayer|sushi|Object001|Take
+      0
+  - first:
+      74: -7399726060137369194
+    second: wood_mat|sushi|sushi|Plane001|Take 001|BaseLayer|sushi|Plane001|Take
+      001
+  - first:
+      74: 9007427119607451826
+    second: wood_mat|sushi|sushi|sushi|Take 001|BaseLayer|sushi|sushi|Take 001|BaseL
+  - first:
+      74: 6060583815175578936
+    second: wood_mat|sushi|sushi|VRayLight002|Take 001|BaseLayer|sushi|VRayLight002|
+  - first:
+      74: -7350495960222187962
+    second: wood_mat|sushi|sushi|wood_mat|Take 001|BaseLayer|sushi|wood_mat|Take
+      001
+  - first:
+      74: -6235402878255980262
+    second: wood_mat|VRayLight002|VRayLight002|Camera001.Target|Take 001|BaseLayer|V
+  - first:
+      74: -3239602561873534805
+    second: wood_mat|VRayLight002|VRayLight002|Camera001|Take 001|BaseLayer|VRayLigh
+  - first:
+      74: 7847285509708786344
+    second: wood_mat|VRayLight002|VRayLight002|Object001|Take 001|BaseLayer|VRayLigh
+  - first:
+      74: -6045833539521193956
+    second: wood_mat|VRayLight002|VRayLight002|Plane001|Take 001|BaseLayer|VRayLight
+  - first:
+      74: 5123154783325599827
+    second: wood_mat|VRayLight002|VRayLight002|sushi|Take 001|BaseLayer|VRayLight002
+  - first:
+      74: 9066858923972472903
+    second: wood_mat|VRayLight002|VRayLight002|VRayLight002|Take 001|BaseLayer|VRayL
+  - first:
+      74: -7960033780514736708
+    second: wood_mat|VRayLight002|VRayLight002|wood_mat|Take 001|BaseLayer|VRayLight
+  - first:
+      74: 1239026167340031220
+    second: wood_mat|wood_mat|wood_mat|Camera001.Target|Take 001|BaseLayer|wood_mat|
+  - first:
+      74: -1054054233308520991
+    second: wood_mat|wood_mat|wood_mat|Camera001|Take 001|BaseLayer|wood_mat|Camera0
+  - first:
+      74: 6365402385204020675
+    second: wood_mat|wood_mat|wood_mat|Object001|Take 001|BaseLayer|wood_mat|Object0
+  - first:
+      74: 1329802713597852061
+    second: wood_mat|wood_mat|wood_mat|Plane001|Take 001|BaseLayer|wood_mat|Plane001
+  - first:
+      74: -2611316170181530598
+    second: 'wood_mat|wood_mat|wood_mat|sushi|Take 001|BaseLayer|wood_mat|sushi|Take '
+  - first:
+      74: 4807179955384808557
+    second: wood_mat|wood_mat|wood_mat|VRayLight002|Take 001|BaseLayer|wood_mat|VRay
+  - first:
+      74: -6904475550669717952
+    second: wood_mat|wood_mat|wood_mat|wood_mat|Take 001|BaseLayer|wood_mat|wood_mat
+  - first:
+      74: -3684742059858969067
+    second: NurbsPath|CameraAction
+  - first:
+      74: 5437898518847276268
+    second: NurbsPath|NurbsPathAction
+  - first:
+      74: 5085211674119627214
+    second: NurbsPath|Object001|Object001|Camera001.Target|Take 001|BaseLayer|Object0
+  - first:
+      74: -972309127070018776
+    second: NurbsPath|Object001|Object001|Camera001|Take 001|BaseLayer|Object001|Came
+  - first:
+      74: 547203938849953921
+    second: NurbsPath|Object001|Object001|Object001|Take 001|BaseLayer|Object001|Obje
+  - first:
+      74: -4240027232027500719
+    second: NurbsPath|Object001|Object001|Plane001|Take 001|BaseLayer|Object001|Plane
+  - first:
+      74: 4183849823081719216
+    second: NurbsPath|Object001|Object001|sushi|Take 001|BaseLayer|Object001|sushi|Ta
+  - first:
+      74: -2975043471759330722
+    second: NurbsPath|Object001|Object001|VRayLight002|Take 001|BaseLayer|Object001|V
+  - first:
+      74: 8964470333768745969
+    second: NurbsPath|Object001|Object001|wood_mat|Take 001|BaseLayer|Object001|wood_
+  - first:
+      74: 8142987713204020597
+    second: NurbsPath|sushi|sushi|Camera001.Target|Take 001|BaseLayer|sushi|Camera001
+  - first:
+      74: -6314456907652132004
+    second: NurbsPath|sushi|sushi|Camera001|Take 001|BaseLayer|sushi|Camera001|Take
+      0
+  - first:
+      74: 4231995604528854838
+    second: NurbsPath|sushi|sushi|Object001|Take 001|BaseLayer|sushi|Object001|Take
+      0
+  - first:
+      74: -6204132648065514294
+    second: NurbsPath|sushi|sushi|Plane001|Take 001|BaseLayer|sushi|Plane001|Take
+      001
+  - first:
+      74: 5967779710852062585
+    second: NurbsPath|sushi|sushi|sushi|Take 001|BaseLayer|sushi|sushi|Take 001|BaseL
+  - first:
+      74: 8761304365380024351
+    second: NurbsPath|sushi|sushi|VRayLight002|Take 001|BaseLayer|sushi|VRayLight002|
+  - first:
+      74: -2448457422787239342
+    second: NurbsPath|sushi|sushi|wood_mat|Take 001|BaseLayer|sushi|wood_mat|Take
+      001
+  - first:
+      74: 5446863153455587389
+    second: NurbsPath|VRayLight002|VRayLight002|Camera001.Target|Take 001|BaseLayer|V
+  - first:
+      74: 6116185985704591244
+    second: NurbsPath|VRayLight002|VRayLight002|Camera001|Take 001|BaseLayer|VRayLigh
+  - first:
+      74: -3840068456865977275
+    second: NurbsPath|VRayLight002|VRayLight002|Object001|Take 001|BaseLayer|VRayLigh
+  - first:
+      74: -1802094887697101332
+    second: NurbsPath|VRayLight002|VRayLight002|Plane001|Take 001|BaseLayer|VRayLight
+  - first:
+      74: -3639838004085215294
+    second: NurbsPath|VRayLight002|VRayLight002|sushi|Take 001|BaseLayer|VRayLight002
+  - first:
+      74: 5693810939815772461
+    second: NurbsPath|VRayLight002|VRayLight002|VRayLight002|Take 001|BaseLayer|VRayL
+  - first:
+      74: 2306480419089743036
+    second: NurbsPath|VRayLight002|VRayLight002|wood_mat|Take 001|BaseLayer|VRayLight
+  - first:
+      74: 5269078525875521374
+    second: NurbsPath|wood_mat|wood_mat|Camera001.Target|Take 001|BaseLayer|wood_mat|
+  - first:
+      74: -5065114458334706981
+    second: NurbsPath|wood_mat|wood_mat|Camera001|Take 001|BaseLayer|wood_mat|Camera0
+  - first:
+      74: 7554831207100016737
+    second: NurbsPath|wood_mat|wood_mat|Object001|Take 001|BaseLayer|wood_mat|Object0
+  - first:
+      74: 6538446104001252575
+    second: NurbsPath|wood_mat|wood_mat|Plane001|Take 001|BaseLayer|wood_mat|Plane001
+  - first:
+      74: -54778635515968551
+    second: 'NurbsPath|wood_mat|wood_mat|sushi|Take 001|BaseLayer|wood_mat|sushi|Take '
+  - first:
+      74: 1836613244930130416
+    second: NurbsPath|wood_mat|wood_mat|VRayLight002|Take 001|BaseLayer|wood_mat|VRay
+  - first:
+      74: -6568869913656260501
+    second: NurbsPath|wood_mat|wood_mat|wood_mat|Take 001|BaseLayer|wood_mat|wood_mat
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
