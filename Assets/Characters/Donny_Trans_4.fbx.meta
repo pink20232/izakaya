@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: 83a7afc33d49f40f5a22caa4a8858934
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Minion_N1_Eye_2
+    second: {fileID: 2100000, guid: 8c279b5523c514a05b59763d12dd57ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Minion_N1_Goggles_Tex_2
+    second: {fileID: 2100000, guid: 822d3970036c64db8b8556784ea48741, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Minion_N1_Pants_Texture
+    second: {fileID: 2100000, guid: 786fa835b3d264288a3176b921673b59, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - 09618b40068c94ab0880773834090cc5
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Donny_Trans_4(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BM_gross_1:Donny_gross_BM
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:pCube12
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.07962774, y: 0.056930885, z: 0.038954224}
+      rotation: {x: -0.7055655, y: 0.04666201, z: 0.04666201, w: 0.7055655}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:pCube10
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.090096764, y: 0.056930885, z: 0.0371856}
+      rotation: {x: -0.69574696, y: -0.12623882, z: -0.12623882, w: 0.69574696}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:Tongue1
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.006802476, y: 0.5100514, z: 0.15201344}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1.150827, y: 1, z: 1}
+    - name: Minion_N1:Hair
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.016778082, y: 1.1285675, z: 0.09403387}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:Hair.2
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.017679209, y: 1.138183, z: 0.05274569}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:Hair.3
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.017043449, y: 1.1431018, z: 0.012851495}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:Hair.4
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.016890315, y: 1.1380982, z: -0.041679367}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:Hair.5
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.016890315, y: 1.1344166, z: -0.08539413}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:Hair.6
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.016192375, y: 1.1260637, z: -0.123660065}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:Hair01
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.018143406, y: 1.138183, z: 0.05274569}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:Hair02
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.01750764, y: 1.1431018, z: 0.012851494}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:Hair03
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.017354513, y: 1.1380982, z: -0.041679367}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:Hair04
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.0173545, y: 1.1344167, z: -0.08539413}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:Hair05
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.016656565, y: 1.1260637, z: -0.123660095}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:Hair06
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.017242298, y: 1.1285675, z: 0.094033875}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:Box24
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.16318376, y: 0.508068, z: 0.17686507}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:Box25
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.10569562, y: 0.5039948, z: 0.22577228}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:Box02
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.033242088, y: 0.5023441, z: 0.24631801}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:Box18
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.041523337, y: 0.5024054, z: 0.24669643}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:Box19
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.1144385, y: 0.5041685, z: 0.22696869}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:Box21
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.1710045, y: 0.5084728, z: 0.17701727}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:Box22
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.19315669, y: 0.5147764, z: 0.10296769}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:Box32
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.18670604, y: 0.6850221, z: 0.114000164}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:Box33
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.16317825, y: 0.6802249, z: 0.1877377}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:Box30
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.10569138, y: 0.67709816, z: 0.23671603}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:Box27
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.033238396, y: 0.67585343, z: 0.25729227}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:Box28
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.041527, y: 0.67593515, z: 0.2576722}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:Box29
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.114442654, y: 0.6773333, z: 0.23791704}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:Box26
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.17100991, y: 0.68069106, z: 0.18789451}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:Box31
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.193164, y: 0.6855808, z: 0.11373872}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:nurbsToPoly1
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:pPipe5
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.0026169014, y: 0.87148786, z: 0.26958436}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:L_GL_Strap_end
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.24736418, y: 0.90497893, z: 0.21952419}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:GL_strap
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.00066022924, y: 0.8221102, z: 0.005730363}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:R_GL_strap_end
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.24886435, y: 0.90346944, z: 0.21952419}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:pCube15
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:pCube16
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.11091543, y: 0.87154424, z: 0.3180503}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:pCube17
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.11091543, y: 0.87154424, z: 0.3180503}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:pCube18
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.11091543, y: 0.87154424, z: 0.3180503}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:pCube19
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.11091543, y: 0.87154424, z: 0.3180503}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:pCube20
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.11091543, y: 0.87154424, z: 0.3180503}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:pCube21
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.11091543, y: 0.87154424, z: 0.3180503}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:pCube22
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.11091543, y: 0.87154424, z: 0.3180503}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:pCube23
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.116044454, y: 0.87154424, z: 0.3180503}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:pCube24
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.116044454, y: 0.87154424, z: 0.3180503}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:pCube25
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.116044454, y: 0.87154424, z: 0.3180503}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:pCube26
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.116044454, y: 0.87154424, z: 0.3180503}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:pCube27
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.116044454, y: 0.87154424, z: 0.3180503}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:pCube28
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.116044454, y: 0.87154424, z: 0.3180503}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:pCube29
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.116044454, y: 0.87154424, z: 0.3180503}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:pCube30
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.60142654, y: 0.4797296, z: -0.0061881975}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:pCube31
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.60143, y: 0.4797296, z: -0.0061881975}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:EyeGlass2
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.110919006, y: 0.8716666, z: 0.23027724}
+      rotation: {x: -0.7505595, y: -0.21714243, z: -0.23702106, w: 0.5773479}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:EyeGlass3
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.1160238, y: 0.8716666, z: 0.23027724}
+      rotation: {x: -0.7505595, y: -0.21714243, z: -0.23702106, w: 0.5773479}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:EyeGlass4
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.110919006, y: 0.8716666, z: 0.23027724}
+      rotation: {x: -0.7072136, y: 0, z: 0, w: 0.70699996}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:EyeGlass5
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.110919006, y: 0.8716666, z: 0.23027724}
+      rotation: {x: 0.8905746, y: -0, z: 0, w: -0.45483726}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:EyeGlass6
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.11602307, y: 0.8716666, z: 0.23027724}
+      rotation: {x: -0.7072136, y: 0, z: 0, w: 0.70699996}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:EyeGlass7
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.11602307, y: 0.8716666, z: 0.23027724}
+      rotation: {x: 0.8905746, y: -0, z: 0, w: -0.45483726}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:EyeMaster
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.110919006, y: 0.8716666, z: 0.23027724}
+      rotation: {x: -0.7505595, y: -0.21714243, z: -0.23702106, w: 0.5773479}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:EyeMaster1
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.1160238, y: 0.8716666, z: 0.23027724}
+      rotation: {x: -0.7505595, y: -0.21714243, z: -0.23702106, w: 0.5773479}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Box22
+      parentName: Donny_Trans_4(Clone)
+      position: {x: -0.18236025, y: 0.5147764, z: 0.10296769}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:nurbsToPoly3
+      parentName: Donny_Trans_4(Clone)
+      position: {x: 0.68837386, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Minion_N1:polySurface3
+      parentName: Minion_N1:nurbsToPoly3
+      position: {x: -0.30438095, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
