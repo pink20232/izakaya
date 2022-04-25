@@ -12,8 +12,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Recipe_menu.unity
     guid: 9434a312ff20b489988a035d55fad370
   - enabled: 0
-    path: Assets/Scenes/ShapesXR_menu_2.unity
-    guid: 9ad37651fa052433591b1f3dce0c61e6
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/Test_042122.unity
+    guid: d80eca01e85324a7e939d7aa79104e22
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8fccb80e6c9a84389a75f2c1ed4d786d,
       type: 2}
