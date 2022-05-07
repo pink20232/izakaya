@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 1215051716350069367}
   - component: {fileID: 1215051716350069365}
   - component: {fileID: 1215051716350069366}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: cucumber
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -167,34 +167,10 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 1
-        m_CallState: 2
   m_HoverExited:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 3102757332219526649}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: SetActive
         m_Mode: 6
@@ -288,7 +264,7 @@ GameObject:
   - component: {fileID: 3102757331248559623}
   - component: {fileID: 3102757331248559621}
   - component: {fileID: 3102757331248559622}
-  m_Layer: 5
+  m_Layer: 11
   m_Name: Image
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -342,7 +318,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: a789fb1ab58a94df3ab956fb0fd4e8d5, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7d1c7814c88c940fc80d6373f1b44e9f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -365,7 +341,7 @@ GameObject:
   - component: {fileID: 3102757332219526646}
   - component: {fileID: 3102757332219526647}
   - component: {fileID: 3102757332219526644}
-  m_Layer: 5
+  m_Layer: 11
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -380,8 +356,8 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3102757332219526649}
   m_LocalRotation: {x: -0.1420484, y: 0.1488185, z: -0.0050568306, w: -0.9785958}
-  m_LocalPosition: {x: 0, y: 0, z: -0.025}
-  m_LocalScale: {x: 0.0007238842, y: 0.0007238842, z: 0.00072388403}
+  m_LocalPosition: {x: 0, y: 0, z: 0.053}
+  m_LocalScale: {x: 0.00036004864, y: 0.00036004864, z: 0.0003600486}
   m_Children:
   - {fileID: 3102757331248559623}
   m_Father: {fileID: 1681534140706139545}
@@ -389,7 +365,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 16.339, y: 342.426, z: -1.95}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: -0.01, y: 0.299}
+  m_AnchoredPosition: {x: -0.019, y: 0.156}
   m_SizeDelta: {x: 943, y: 641.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!223 &3102757332219526645

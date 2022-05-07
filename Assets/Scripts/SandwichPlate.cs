@@ -39,7 +39,7 @@ public class SandwichPlate : MonoBehaviour
             //from preset kinematic to use gravity 
             assembleSandwich.GetComponent<Rigidbody>().useGravity = true;
             //indika's example: workbench which to hold all the objects 
-            Destroy(gameObject);
+            //Destroy(gameObject);
         }
     }
 }
